@@ -9,8 +9,8 @@
 
 ```
 Seleccione una opción:
-1. Índice 7 (Marcha aleatoria y comparación con Gaussiana)
-2. Índice 8 (Cálculo de <x>, <x^2> y constante de difusión)
+1. Índice 7 (Marcha Aleatoria)
+2. Índice 8 (Comparacion de <x^2> con N y determinacion de la constante de difusion D)
 ```
 
 ---
